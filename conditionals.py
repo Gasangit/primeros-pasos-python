@@ -31,16 +31,16 @@ else:
 nombre =input("Ingrese su nombre: ")
 apellido =input("Ingrese su apellido: ")
 
-if nombre == "Angel Gaston":
-    if apellido == "Mansilla":
+if nombre == "Ernesto Gabriel":
+    if apellido == "Peralta":
         print("Tú eres lo más grande que le pasó a este mundo")
     else:
-        print("Tú no eres Angel Gaston Mansilla")
-elif nombre != "Angel Gaston":
-    if apellido == "Mansilla":
-        print("Tu no eres Angel Gaston pero eres Mansilla")
+        print("Tú no eres Ernesto Gabriel Peralta")
+elif nombre != "Ernesto Gabriel":
+    if apellido == "Peralta":
+        print("Tu no eres Ernesto Gabriel pero eres Peralta")
     elif apellido != "Mansilla":
-        print("Tú no eres Angel Gaston Mansilla")
+        print("Tú no eres Ernesto Gabriel Peralta")
 
 from decimal import Decimal
 if 0.8 > 0.75 and 0.8 < 1:
