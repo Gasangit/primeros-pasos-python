@@ -8,8 +8,8 @@ hello()
 def hola(nombre):
     print("Hola" + nombre)
 
-hola(" Gaston")
-hola(" Cintia")
+hola(" Uno")
+hola(" Una")
 hola(" La Gorda")
 
 # también pordemos definir un ARGUMENTO entre los () para que sea solicitado por la función (imagino que se podra incluir un INPUT)

@@ -17,7 +17,7 @@ print(x[2])
 #al igual que las LISTAS se puede traer un valor determinado mediante su número de INDICE
 
 #del K
-#para borrar la TUPLE se usa la funcion DEL. Nos dira que el valor de la TUPLE no esta definido como mensaje resultante ya que se borró
+#para borrar la TUPLA se usa la funcion DEL. Nos dira que el valor de la TUPLA no esta definido como mensaje resultante ya que se borró
 
 locations={
      (35.626985, 75.26598) : "tokio", 
