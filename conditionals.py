@@ -39,7 +39,7 @@ if nombre == "Ernesto Gabriel":
 elif nombre != "Ernesto Gabriel":
     if apellido == "Peralta":
         print("Tu no eres Ernesto Gabriel pero eres Peralta")
-    elif apellido != "Mansilla":
+    elif apellido != "Peralta":
         print("Tú no eres Ernesto Gabriel Peralta")
 
 from decimal import Decimal
