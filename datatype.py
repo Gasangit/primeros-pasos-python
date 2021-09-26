@@ -25,16 +25,16 @@ False
 #Tuple. Es un tipo de dato que no puede cambiar. Los tipos de dato LIST si puden cambiar
 (10, 20, 30, 40)
 
-# Diccionario. Agrupa diferentes tipos de datos con una CLAVE y un VALOR (CLAVE "Nombre" VALOR "Angel Gaston")
+# Diccionario. Agrupa diferentes tipos de datos con una CLAVE y un VALOR (CLAVE "Nombre" VALOR "Juan Anselmo")
 {
-    "Nombre":"Angel Gaston",
-    "Apellido":"Mansilla",
-    "Apodo":"Tonga"
+    "Nombre":"Juan Anselmo",
+    "Apellido":"Gimenez",
+    "Apodo":"Chuqui"
 }
 print(type({
-    "Nombre":"Angel Gaston",
-    "Apellido":"Mansilla",
-    "Apodo":"Tonga"
+    "Nombre":"Juan Anselmo",
+    "Apellido":"Gimenez",
+    "Apodo":"Chuqui"
 }))
 
 
