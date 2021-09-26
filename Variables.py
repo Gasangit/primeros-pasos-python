@@ -1,5 +1,5 @@
 # en la linea 2 se define una variable
-nombre = "Gaston"
+nombre = "alguien"
 
 print(nombre)
 # en la linea 4 se pidió a Python que muestre la variable
@@ -11,7 +11,7 @@ print(frase)
 
 # se pueden definir mas de una variable a la vez
 
-amigos, trabajo, casa="Camilo y Leo", "Telecom","Vallese"
+amigos, trabajo, casa="otro y otro más", "Lugar","Otro lugar"
 print(amigos, casa)
 print(trabajo)
 
